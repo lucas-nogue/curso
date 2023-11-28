@@ -8,7 +8,5 @@ git push
 guarda commit en el servidor de github
 git log
 muestra los commits que existen en el repositorio
-git checkout (hash del commit)
-volver al commit del hash puesto
 git reset --hard head~3
 borra los ultimos 3 commits y vuelve para atras
